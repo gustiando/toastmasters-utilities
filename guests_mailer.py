@@ -89,7 +89,7 @@ This is Buddies' Vice President of Membership. I just received your contact info
 
 We'd love to have you join us as a guest and hear more from you before, during or after the meeting. Let me share the meeting info with you below for access, and hope to see you in our next meeting!
 
-We meet every Saturday 1PM UTC on Zoom: https://us02web.zoom.us/j/591440460?pwd=R3pMT0hzTU1TYytWT2lvdUZkd3BmUT09 The password is 'Buddies' and this link should work for every future meeting.
+We meet every Saturday 1PM UTC on Zoom: https://us02web.zoom.us/j/591440460?pwd=R3pMT0hzTU1TYytWT2lvdUZkd3BmUT09 The password is 'Buddies' and this link should work for every future meeting. This link can indicate what 1PM UTC means in your timezone: https://www.starts-at.com/event/3147989528
 
 You can learn more about us in our main website: http://buddies.toastmost.org
 or Twitter: https://twitter.com/BuddiesOnlineTM)
